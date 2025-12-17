@@ -1,0 +1,20 @@
+Description: This file contains item master data with SKU details
+SKU,Brand,Shape,Size_Capacity,Material
+FS-001,ZipLock,Rectangle,500ml,Plastic
+SS-002,FreshWare,Round,750ml,Plastic
+CW-003,CuisinePro,N/A,5pc Set,Stainless Steel
+CB-004,NatureCut,Rectangle,Medium,Bamboo
+CN-005,GlassWorks,Cylinder,1L,Glass
+TW-006,DineWell,N/A,12pc Set,Ceramic
+KT-007,QuickChef,N/A,Standard,Stainless Steel
+FS-008,ZipLock,Round,1L,Plastic
+FS-009,FreshWare,Square,750ml,Plastic
+FS-010,ZipLock,Rectangle,2L,Plastic
+SS-011,FreshWare,Rectangle,1.5L,Plastic
+CW-012,CuisinePro,Round,10in,Stainless Steel
+CB-013,KitchenBasic,Rectangle,Large,Plastic
+FS-014,ZipLock,Mixed,6pc Set,Plastic
+FS-015,FreshWare,Rectangle,800ml,Plastic
+SS-016,FreshWare,Rectangle,1L,Plastic
+FS-017,ZipLock,Rectangle,1.2L,Plastic
+CW-018,CuisinePro,Round,8qt,Stainless Steel

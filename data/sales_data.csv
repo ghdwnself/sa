@@ -1,0 +1,31 @@
+Date,Customer,SKU,Category,Sales,Quantity
+2024-01-15,homegoods,FS-001,Food Storage - Rectangle - 500ml,15000,500
+2024-01-20,marshalls,SS-002,Smart Seal Container,12000,400
+2024-02-10,tj maxx,CW-003,Cookware Set,25000,250
+2024-03-05,WINNERS,CB-004,Cutting Board - Bamboo,8000,200
+2024-03-15,HOMESENSE,CN-005,Canister - Glass,6000,150
+2024-04-20,ABC TRADING,TW-006,Tableware Set,10000,100
+2024-05-10,XYZ IMPORTS,KT-007,Kitchen Tool - Peeler,3000,300
+2024-06-15,homegoods,FS-008,Food Storage - Round - 1L,18000,600
+2024-07-20,burlington,FS-009,Food Storage - Square - 750ml,14000,400
+2024-08-10,COASTAL DIST,FS-010,Food Storage - Rectangle - 2L,20000,500
+2024-09-05,marshalls,SS-011,Smart Seal Box,13000,450
+2024-10-10,tj maxx,CW-012,Cookware Pan,22000,220
+2024-11-15,MIDWEST SUPPLY,CB-013,Cutting Board - Plastic,7000,180
+2024-12-20,homegoods,FS-014,Food Storage - Container Set,16000,550
+2025-01-10,HOMEGOODS,FS-001,Food Storage - Rectangle - 500ml,18000,600
+2025-01-15,MARSHALLS,SS-002,Smart Seal Container,15000,500
+2025-01-20,TJ MAXX,CW-003,Cookware Set,30000,300
+2025-02-05,WINNERS,CB-004,Cutting Board - Bamboo,9500,240
+2025-02-10,HOMESENSE,CN-005,Canister - Glass,7200,180
+2025-02-15,ABC TRADING,TW-006,Tableware Set,12000,120
+2025-03-01,XYZ IMPORTS,KT-007,Kitchen Tool - Peeler,3500,350
+2025-03-10,HOMEGOODS,FS-008,Food Storage - Round - 1L,22000,700
+2025-03-15,COASTAL DIST,FS-010,Food Storage - Rectangle - 2L,24000,600
+2025-04-01,MARSHALLS,SS-011,Smart Seal Box,16000,550
+2025-04-10,TJ MAXX,CW-012,Cookware Pan,26000,260
+2025-04-15,HOMEGOODS,FS-014,Food Storage - Container Set,19000,650
+2025-05-01,MARSHALLS,FS-015,Food Storage - Lunch Box,11000,400
+2025-05-10,TJ MAXX,SS-016,Smart Seal - Premium,14000,450
+2025-05-15,WINNERS,FS-017,Food Storage - Meal Prep,10000,350
+2025-06-01,HOMESENSE,CW-018,Cookware Pot,15000,150
