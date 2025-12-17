@@ -197,3 +197,110 @@ header {
     padding: 1.5rem !important;
     margin-bottom: 2rem !important;
 }
+
+/* ===== Responsive Layout for TV Display ===== */
+
+/* Optimize for 1920x1080 (Full HD TV) */
+@media screen and (min-width: 1920px) {
+    .main {
+        font-size: 1.4rem !important;
+    }
+    
+    h1 {
+        font-size: 3.5rem !important;
+    }
+    
+    h3 {
+        font-size: 1.8rem !important;
+    }
+    
+    [data-testid="stMetricValue"] {
+        font-size: 3.5rem !important;
+    }
+}
+
+/* Tablet and smaller desktop (1024px - 1920px) */
+@media screen and (max-width: 1920px) and (min-width: 1024px) {
+    .main {
+        font-size: 1.1rem !important;
+    }
+    
+    h1 {
+        font-size: 2.5rem !important;
+    }
+    
+    [data-testid="stMetricValue"] {
+        font-size: 2.5rem !important;
+    }
+    
+    .block-container {
+        padding: 1.5rem 2rem !important;
+    }
+}
+
+/* Mobile and small tablets (< 1024px) */
+@media screen and (max-width: 1024px) {
+    .main {
+        font-size: 1rem !important;
+    }
+    
+    h1 {
+        font-size: 2rem !important;
+    }
+    
+    h3 {
+        font-size: 1.25rem !important;
+    }
+    
+    [data-testid="stMetricValue"] {
+        font-size: 2rem !important;
+    }
+    
+    [data-testid="column"] {
+        padding: 1rem !important;
+        margin: 0.25rem !important;
+    }
+    
+    .block-container {
+        padding: 1rem !important;
+    }
+}
+
+/* Ultra-wide and 4K displays (> 2560px) */
+@media screen and (min-width: 2560px) {
+    .main {
+        font-size: 1.6rem !important;
+    }
+    
+    h1 {
+        font-size: 4rem !important;
+    }
+    
+    h3 {
+        font-size: 2rem !important;
+    }
+    
+    [data-testid="stMetricValue"] {
+        font-size: 4rem !important;
+    }
+    
+    .block-container {
+        padding: 3rem 5rem !important;
+    }
+}
+
+/* Print styles for reports */
+@media print {
+    .stApp {
+        background-color: white !important;
+    }
+    
+    .main {
+        background-color: white !important;
+        color: black !important;
+    }
+    
+    h1, h2, h3, h4, h5, h6, p, span, div {
+        color: black !important;
+    }
+}

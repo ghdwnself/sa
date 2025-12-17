@@ -1,10 +1,122 @@
-Customer,Type
-HOMEGOODS,MMD
-MARSHALLS,MMD
-TJ MAXX,MMD
-WINNERS,MMD
-HOMESENSE,MMD
-BURLINGTON,MMD
-ABC TRADING,EMD
-XYZ IMPORTS,DI
-MIDWEST SUPPLY,EMD
+Customer,Name,Type
+Customer Service,Customer Service,CS
+Employees,Employees,CS
+Hayden Yoon,Hayden Yoon,CS
+Jay Shin,Jay Shin,CS
+Marketing,Marketing,CS
+Amazon Sourcing  - GPE,Amazon GPE,DI
+Amazon Sourcing - GPE,Amazon GPE,DI
+Amazon Sourcing - IN,Amazon Sourcing - IN,DI
+BJ's Wholesale,BJ's,DI
+Costco Australia,Costco AU,DI
+Costco Canada,Costco CA,DI
+Costco Japan,Costco JP,DI
+Costco Mexico,Costco MX,DI
+Costco Taiwan,Costco TW,DI
+Costco UK,Costco UK,DI
+Eden Marketing Corp.,Eden Marketing Corp.,DI
+Price Smart,Price Smart,DI
+Sam's Brazil (Walmart Brazil),Sam's Brazil,DI
+THE CONTAINER STORE,The Container Store,DI
+UNFI (formerly Supervalu),UNFI,DI
+TPC,TPC,DI
+6IXTH SENSE LA,6ixth Sense,EMD
+99 Ranch Market E-Commerce,99 Ranch Market (Online),EMD
+99 Ranch Market Grocery Dept,99 Ranch Market (Retail),EMD
+Ace Hardware (Formerly True Value),Ace Hardware,EMD
+Amuse,Amuse,EMD
+Bed Bath & Beyond - Online,Bed Bath & Beyond (Online),EMD
+Coway (Chicago),Coway Chicago,EMD
+Coway (Dallas),Coay Dalaas,EMD
+Coway (LA),Coway LA,EMD
+COWAY USA,Coway USA,EMD
+dd's Discount,dd's Discount,EMD
+Etailing Partners Inc.,Etailing Partners Inc.,EMD
+FindZ,FindZ,EMD
+Glory insurance,Glory insurance,EMD
+Greenlife Purifile. INC,Greenlife Purifile. INC,EMD
+"Habitat, Inc.","Habitat, Inc.",EMD
+Hankook Dojagi,Hankook Dojagi,EMD
+Hey Moms Market LLC,Hey Moms Market LLC,EMD
+Houzz,Houzz,EMD
+ILLO,Illo,EMD
+Inc. dba MissyUSA.com,MissyUSA,EMD
+missy usa mall,MissyUSA,EMD
+Influencer,Influencer,EMD
+Influencer:Bee Pham,Influencer:Bee Pham,EMD
+Influencer:Emma Blair,Influencer:Emma Blair,EMD
+Influencer:Kyrie Papenfuss,Influencer:Kyrie Papenfuss,EMD
+Influencer:Michelle Chung,Influencer:Michelle Chung,EMD
+Invision America,Invision,EMD
+Irvine Onnuri Church,Onnuri Church (Irvine),EMD
+JC Sales,JC Sales,EMD
+Kim's Home Center,Kim's Home Center,EMD
+Kitchen Land,Kitchen Land,EMD
+Lunds & Byerlys - 50th,Lunds & Byerlys,EMD
+Lunds & Byerlys - Bloomington,Lunds & Byerlys,EMD
+Lunds & Byerlys - Eagan,Lunds & Byerlys,EMD
+Lunds & Byerlys - France Ave,Lunds & Byerlys,EMD
+Lunds & Byerlys - Highland Park,Lunds & Byerlys,EMD
+Lunds & Byerlys - Maple Grove,Lunds & Byerlys,EMD
+Lunds & Byerlys - Prior Lake,Lunds & Byerlys,EMD
+Lunds & Byerlys - SLP,Lunds & Byerlys,EMD
+Lunds & Byerlys - St. Cloud,Lunds & Byerlys,EMD
+Lunds & Byerlys - Wayzata,Lunds & Byerlys,EMD
+Lunds & Byerlys - Woodbury,Lunds & Byerlys,EMD
+Lunds & Byerlys - Eden Prairie,Lunds & Byerlys,EMD
+Lunds & Byerlys - Hwy 7,Lunds & Byerlys,EMD
+Lunds & Byerlys - Minnetonka,Lunds & Byerlys,EMD
+Lunds & Byerlys - Ridgedale,Lunds & Byerlys,EMD
+Mom Amore,Mom Amore,EMD
+MoMA,MoMA,EMD
+NUVOLINA SRL,NUVOLINA SRL,EMD
+"ODK Media, Inc","ODK Media, Inc",EMD
+OUSIA,OUSIA,EMD
+Red Barn Gifts,Red Barn Gifts,EMD
+Rooster Brother,Rooster Brother,EMD
+Safeway (Albertsons Companies),Safeway (Albertsons Companies),EMD
+"San Young Market, Inc. (T&K)","San Young Market, Inc",EMD
+Shin Shin Ent. Inc.,Shin Shin Ent. Inc.,EMD
+Smithsonian Enterprises Direct,Smithsonian Enterprises Direct,EMD
+Smithsonian Institution Museum Shops,Smithsonian Institution Museum Shops,EMD
+SOOJONG INC,SooJoon Inc,EMD
+The Added Touch,The Added Touch,EMD
+The Cook's Nook,The Cook's Nook,EMD
+The Museum of Modern Art,The Museum of Modern Art,EMD
+"Tyco Food Company, LLC","Tyco Food Company, LLC",EMD
+Unexpectedmeal Inc,Unexpectedmeal Inc,EMD
+We Round,We Round,EMD
+Weee!,Weee!,EMD
+Wooltari USA,Wooltari USA,EMD
+Yamibuy (Vendor),Yamibuy,EMD
+Zion Market (Buena Park),Zion Market,EMD
+Zion Market (Dallas),Zion Market,EMD
+Zion Market (irvine),Zion Market,EMD
+Zion Market (San Diego),Zion Market,EMD
+Zulily (FB),Zulily (FB),EMD
+Ningbo Topstar,Ningbo Topstar,Manufacture
+Suncon Electric Appliance,Suncon Electric Appliance,Manufacture
+"Yuyao Sanfeng Plastic Mold Co., Ltd.","Yuyao Sanfeng Plastic Mold Co., Ltd.",Manufacture
+Burlington,Burlington,MMD
+TJX - CM,CM,MMD
+TJX - HomeGoods,HomeGoods,MMD
+TJX - HomeGoods (French Bull),HomeGoods (French Bull),MMD
+TJX - HOMESENSE,HOMESENSE,MMD
+TJX - Marshalls,Marshalls,MMD
+TJX - TJ Maxx,TJ Maxx,MMD
+TJX - Winners,Winners,MMD
+TJX Europe,TJX Europe,MMD
+Neoflam Taiwan Inc,Neoflam Taiwan Inc,Neoflam
+"Neoflam, Inc.","Neoflam, Inc.",Neoflam
+Amazon - French Bull,Amazon Vendor (French Bull),OBD
+Amazon - Neoflam,Amazon Vendor (Neoflam),OBD
+Amazon Marketplace - French Bull NYC,Amazon Seller (French Bull),OBD
+Amazon Marketplace - NF,Amazon Seller (Neoflam),OBD
+Etsy,Etsy,OBD
+Faire.com - Neoflam,Faire (Neoflam),OBD
+Faire.com -FB,Faire (French Bull),OBD
+French Bull Shop,French Bull Shop,OBD
+Macy's,Macy's,OBD
+Neoflam Shop,Neoflam Shop,OBD
+Wayfair,Wayfair (Neoflam),OBD
+Wayfair - French Bull,Wayfair (French Bull),OBD
